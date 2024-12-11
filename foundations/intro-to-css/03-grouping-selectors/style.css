@@ -1,0 +1,15 @@
+.default,
+.urgent {
+    font-family: "Helvetica", "Times New Roman", serif;
+    font-size: 28px;
+}
+
+.default {
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+.urgent {
+    background-color: yellow;
+}
+
